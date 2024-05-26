@@ -1,0 +1,6 @@
+pymongo[srv]
+elasticsearch==8.13.1
+python-dotenv
+fastapi
+uvicorn[standard]
+pandas
